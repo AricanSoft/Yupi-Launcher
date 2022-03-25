@@ -1,3 +1,3 @@
 # Yupi-Launcher
 
-Yupi Launcher, yazılım dili kullanılarak geliştirilen bir Minecraft Launcherdir.
+Yupi Launcher, C# programlama dili kullanılarak geliştirilen bir Minecraft Launcherdir.
